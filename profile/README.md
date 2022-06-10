@@ -1,9 +1,7 @@
 # templatus
 
-One Ruby on Rails template in multiple flavors.
+Opinionated starter kit for creating web applications with Ruby on Rails. It comes in several flavors, available so far:
 
-Currently available:
-
-- API/Vue.js
-- Hotwire
-- Inertia/Svelte.js
+- Hotwire (the "DHH way")
+- Vue.js connected by API
+- Svelte.js connected by Inertia.js
